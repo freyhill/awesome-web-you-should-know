@@ -12,6 +12,7 @@
 * [webpack](https://webpack.js.org/)
 * [react](https://reactjs.org/)
 * [codrops](https://tympanus.net/codrops/)
+* [codepen](https://codepen.io/)
 #### 💬技术论坛
 * [v2ex](https://www.v2ex.com/)
 * [infoQ](http://www.infoq.com)
@@ -20,6 +21,7 @@
 * [node中文社区](https://cnodejs.org/)
 * [博客园](https://www.cnblogs.com/leinov)
 * [CNDS](https://blog.csdn.net/)
+* [reactjs discuss](https://discuss.reactjs.org/)
 #### 🎨设计类
 * [dribbble](https://dribbble.com/)(最优秀的ui设计网站)
 * [Behance](https://www.behance.net/)(最优秀的平面设计网站)
