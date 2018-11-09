@@ -1,5 +1,6 @@
 
 ![image](https://github.com/leinov/awesome-web-you-should-know/raw/master/img/logo2.png)
+
 ## 🌏 awesome-web-you-should-know
 
 #### 🔨tool
@@ -58,7 +59,16 @@
 * [codecademy](http://www.codecademy.com/learn)
 * [pluralsight](https://www.pluralsight.com/)
 
+#### 💰区块链
+
+* [火币](https://www.huobi.com/) (交易)
+* [巴比特](http://www.8btc.com/) (社区)
+* [非小号](https://www.feixiaohao.com/) (社区 全球排名)
+* [币乎](https://bihu.com/) (文章社区)
+* [迷恋猫](https://www.cryptokitties.co/)
+* [龙币](https://dragonex.im/zh-hans/trade/index/btc_usdt) (我就是在这上面买币的)
 
 #### ⛷ 优秀个人技术博客
+
 * [阮一峰老师](http://www.ruanyifeng.com/blog/)
 * [粉丝日志](http://blog.fens.me/series-nodejs/)
