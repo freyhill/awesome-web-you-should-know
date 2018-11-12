@@ -20,6 +20,8 @@
 * [github](https://github.com/) (全球最大代码托管社区)
 * [stackoverflow](https://stackoverflow.com/) (全球最大技术问答社区)
 * [codrops](https://tympanus.net/codrops/) (大量优秀页面效果)
+* [reddit](https://www.reddit.com/) (最优秀的论坛)
+* [medium](https://medium.com/) (各类优秀文章)
 * [v2ex](https://www.v2ex.com/) (用过的都说好)
 * [segmentfault](https://segmentfault.com/news) (思否 优秀)
 * [node中文社区](https://cnodejs.org/)(Node.js专业中文社区)
