@@ -26,7 +26,7 @@
 * [segmentfault](https://segmentfault.com/news) (思否 优秀)
 * [node中文社区](https://cnodejs.org/)(Node.js专业中文社区)
 * [博客园](https://www.cnblogs.com/leinov) (代码改变世界)
-* [CNDS](https://blog.csdn.net/)
+* [CSDN](https://blog.csdn.net/)
 * [掘金](https://juejin.im) (开发者成长社区)
 * [infoQ](http://www.infoq.com)
 * [伯乐在线](http://blog.jobbole.com/)
