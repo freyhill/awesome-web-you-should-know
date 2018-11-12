@@ -55,6 +55,8 @@
 * [网易云课堂](http://study.163.com/)
 * [慕课网](http://www.imooc.com/)
 * [极客学院](http://www.jikexueyuan.com/)
+* [极客时间](https://time.geekbang.org/) (收费技术干货)
+* [三节课](https://www.sanjieke.cn) (产品运营收费干货)
 * [麦子学院](http://www.maiziedu.com/)
 * [北风网](http://www.ibeifeng.com/)
 * [好知网](http://www.howzhi.com/)
@@ -70,7 +72,12 @@
 * [迷恋猫](https://www.cryptokitties.co/)
 * [龙币](https://dragonex.im/zh-hans/trade/index/btc_usdt) (我就是在这上面买币的)
 
-#### ⛷ 优秀个人技术博客
+#### ⛷ 优秀个人&组织博客
 
-* [阮一峰老师](http://www.ruanyifeng.com/blog/)
+* [阮一峰老师](http://www.ruanyifeng.com/blog/) (神)
+* [廖雪峰](https://www.liaoxuefeng.com/) (无所不通)
 * [粉丝日志](http://blog.fens.me/series-nodejs/)
+* [美团技术团队](https://tech.meituan.com/)
+* [奇舞团](https://75team.com/) (360大前端团队)
+* [腾讯全端技术团队](http://www.alloyteam.com/)
+* [阿里UED](http://www.aliued.cn/)
