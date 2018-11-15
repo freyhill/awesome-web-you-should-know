@@ -1,7 +1,7 @@
 
 ![image](https://github.com/leinov/awesome-web-you-should-know/raw/master/img/logo2.png)
 
-## 🌏 awesome-web-you-should-know
+## 🌏 [github awesome-web-you-should-know](https://github.com/leinov/awesome-web-you-should-know)
 
 #### 🔨tool
 
@@ -14,7 +14,7 @@
 * [Alexa](https://www.alexa.com/topsites) (网站全球排名)
 * [在线查询](https://www.supfree.net/) (很牛逼)
 * [the-numbers](https://www.the-numbers.com/) (电影全球票房查询)
-
+* [谷歌趋势](https://trends.google.com/trends/explore?date=all&q=react,vue,angular) (查询任何想要比较的关键字)
 #### 💬技术&论坛
 
 * [github](https://github.com/) (全球最大代码托管社区)
@@ -82,3 +82,6 @@
 * [360奇舞团](https://75team.com/) (360大前端团队)
 * [粉丝日志](http://blog.fens.me/series-nodejs/)
 * [helloweta](https://www.helloweba.net/)
+
+
+[github持续更新](https://github.com/leinov/awesome-web-you-should-know)
