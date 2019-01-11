@@ -15,7 +15,8 @@
 * [在线查询](https://www.supfree.net/) (很牛逼)
 * [the-numbers](https://www.the-numbers.com/) (电影全球票房查询)
 * [谷歌趋势](https://trends.google.com/trends/explore?date=all&q=react,vue,angular) (查询任何想要比较的关键字)
-
+* [codepen](https://codepen.io/)(在线代码编辑及大量炫酷例子)
+* [dafont](https://www.dafont.com//) (大量漂亮字体)
 #### 💬技术&论坛
 
 * [github](https://github.com/) (全球最大代码托管社区)
@@ -23,7 +24,7 @@
 * [reddit](https://www.reddit.com/) (全球最大论坛)
 * [codrops](https://tympanus.net/codrops/) (大量优秀页面效果)
 * [medium](https://medium.com/) (各类优秀文章)
-* [v2ex](https://www.v2ex.com/) (用过的都说好)
+* [v2ex](https://www.v2ex.com/) (全网最佳)
 * [segmentfault](https://segmentfault.com/news) (思否 优秀)
 * [node中文社区](https://cnodejs.org/)(Node.js专业中文社区)
 * [博客园](https://www.cnblogs.com/leinov) (代码改变世界)
@@ -76,8 +77,8 @@
 
 #### ⛷ 优秀个人&组织博客
 
-* [阮一峰老师](http://www.ruanyifeng.com/blog/) (神)
-* [廖雪峰](https://www.liaoxuefeng.com/) (无所不通)
+* [阮一峰老师](http://www.ruanyifeng.com/blog/) 
+* [廖雪峰](https://www.liaoxuefeng.com/)  
 * [justjavac](https://justjavac.com/)
 * [腾讯全端技术团队](http://www.alloyteam.com/)
 * [阿里UED](http://www.aliued.cn/)
